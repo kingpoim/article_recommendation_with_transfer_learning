@@ -1,1 +1,1 @@
-# article_recommendation_with_transfer_learning
+# Article recommendation with transfer learning
